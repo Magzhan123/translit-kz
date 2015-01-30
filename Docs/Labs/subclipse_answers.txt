@@ -1,0 +1,6 @@
+KSMB develop:
+
+1)1)Check out-->Update-->Work with code-->Synchronize-->Merge-->Commit;
+2) Check in-->Check out-->Update-->Work with code-->Synchronize-->Merge-->Commit;
+3) true Это как Microsoft office Лучше сохранять каждый раз чтобы не потерять часть кода и вернуться обратно в любой commit
+4)false First you need to 'fetch' then 'pull' to synchronize your repository. So you would need 2 steps to synchronize
