@@ -1,6 +1,8 @@
 KSMB develop:
 
-1)1)Check out-->Update-->Work with code-->Synchronize-->Merge-->Commit;
+
+
+1)Check out-->Update-->Work with code-->Synchronize-->Merge-->Commit;
 2) Check in-->Check out-->Update-->Work with code-->Synchronize-->Merge-->Commit;
-3) true Это как Microsoft office Лучше сохранять каждый раз чтобы не потерять часть кода и вернуться обратно в любой commit
-4)false First you need to 'fetch' then 'pull' to synchronize your repository. So you would need 2 steps to synchronize
+3) true -  It's like Microsoft office is better to save each time to avoid losing part of the code and go back to any commit
+4) false - First you need to 'fetch' then 'pull' to synchronize your repository. So you would need 2 steps to synchronize
