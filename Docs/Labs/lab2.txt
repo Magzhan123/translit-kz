@@ -1,0 +1,12 @@
+Desctop Application:
+1.Actor: desctop user.
+2.1. Offline zhumys istei alu mumkindigi.
+  2. Ozine yngaily baptaular koiy alady.
+  3. Programma iske kosylganda, bloknotta matin teru arkyly zhumys isteu mumkindigi.
+  4. Programmany onai iske kosyp, owiru mumkindigi.
+WEB APPLICATION:
+1.Actor: web user.
+2.1. Web App негізінен онлайн жумыс жасайды.
+  2. Web App бізбен кері байланыс жасай алады.
+  3. Web App колданушы озіне ынгайлы баптаулар орната алу мумкіндігі
+  4. Web App файлды енгізе алады.
