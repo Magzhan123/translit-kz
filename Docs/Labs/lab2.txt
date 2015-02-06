@@ -6,7 +6,7 @@ Desctop Application:
   4. Programmany onai iske kosyp, owiru mumkindigi.
 WEB APPLICATION:
 1.Actor: web user.
-2.1. Web App негізінен онлайн жумыс жасайды.
-  2. Web App бізбен кері байланыс жасай алады.
-  3. Web App колданушы озіне ынгайлы баптаулар орната алу мумкіндігі
-  4. Web App файлды енгізе алады.
+2.1. Web App negizinen online jumis jasaidy.
+  2. Web App bizben keri bailanis ornata alady.
+  3. Web App koldanuwy ozinin faildik jukteu procesyn kosady.
+  4. Web App ozynin baptaularyn  ornata alady.
