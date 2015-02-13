@@ -1,0 +1,11 @@
+             Lab3 KSMB developers
+    3.1)STEP ONE: BRAINSTORM USE CASES
+    Userler tizimi jok, userlerge arnalgan  funcsionaldar jok.
+    3.2)STEP TWO: DEVELOP SCREENSHOTS
+    Ar screenda kim jasagany terezelerdin  astina jazilu kerek jazilmagan
+    3.3)STEP THREE: DEVELOP SCREENFLOW 
+    Bir terezeden ekinwy bir terezege otu uwin kandi kadam isteu  keregy shemada korsetilmegen
+      
+       2 Advantages screenshot
+     1)Clientke oindagydai jobany azirleu uwin manyzdy.
+     2)Bir ulgy jasaimiz, sogan karap jumisty damitamiz.   
