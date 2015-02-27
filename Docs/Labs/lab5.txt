@@ -1,0 +1,19 @@
+I. Find 3 major problems in the A3_ex2
+1. Features zhok, zhazbagan
+2. Employee Registration by Dean degen use-case-ke preconditions, Postconditions zhok:
+   Mysalyga mynandai preconditions qoisaq bolady:
+	tirkelgeli turgan adamdy bazada zhoq bolgan zhagdaida gana tirkeidi
+3. Employee Registration by Dean degen use-case-ke ALTERNATE FLOW zhoq eken:
+	eger zhumysshy tirkelu barysynda qatelik shygyp zhatsa, ogan tirkele almady degen
+khabar shyguy kerek. Sonda zhumysshy kaita khabarlasu siltemesi boiynsha komekke zhugine 
+aluy kerek.
+II.
+
+                     *Feature
+            Use-Case Online Transliteration
+1)Koldanuwi sozdi engizu ushin database jane server
+    Ne uwin?
+Koldanushy sozdy engizgende ony serverge jiberedy server Db jiberedi...
+Sol sozdi ol malimetter korinan alip serverge jiberedy ol screen ga natizhiesyn kaitarady.
+ 
+
