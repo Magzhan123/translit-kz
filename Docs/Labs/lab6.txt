@@ -1,0 +1,19 @@
+Lab6 Requirements
+1.Kairat Batyrbayev
+  3.2.1. Event Manual
+  3.2.3.1.1 (M)The SDU Timetabling in case “Event Manual” is selected shall start
+  download of pdf manual document about event management from 3-rd party server.
+  "3-rd party server" tusiniksiz, tolyq emes. incomplete-ke zhatady
+2.Magzhan Sarzhan
+
+
+
+3.Sandibek Bileken
+
+
+
+4.Bekzat Kazhigaliev
+
+
+
+
