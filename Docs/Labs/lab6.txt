@@ -4,11 +4,16 @@ Lab6 Requirements
   3.2.3.1.1 (M)The SDU Timetabling in case “Event Manual” is selected shall start
   download of pdf manual document about event management from 3-rd party server.
   "3-rd party server" tusiniksiz aqparat, tolyq sipat berilmegen. incomplete-ke zhatady
+  
 2.Magzhan Sarzhan
 
 
 
 3.Sandibek Bileken
+  3.2.2.1 Events
+  3.2.2.1.7 (M) The SDU Timetabling shall allow the user to press on “Search”,”Export
+  PDF”,”Add Event”, “iCalendar” buttons.
+  iCalendar turaly aqparat zhoq. incomplete.
 
 
 
