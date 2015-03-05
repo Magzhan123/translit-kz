@@ -3,7 +3,7 @@ Lab6 Requirements
   3.2.1. Event Manual
   3.2.3.1.1 (M)The SDU Timetabling in case “Event Manual” is selected shall start
   download of pdf manual document about event management from 3-rd party server.
-  "3-rd party server" tusiniksiz, tolyq emes. incomplete-ke zhatady
+  "3-rd party server" tusiniksiz aqparat, tolyq sipat berilmegen. incomplete-ke zhatady
 2.Magzhan Sarzhan
 
 
@@ -13,6 +13,9 @@ Lab6 Requirements
 
 
 4.Bekzat Kazhigaliev
+  3.2.1a Error Handling for Login
+  3.2.1.1a (M) The SDU Timetabling shall print out the error message if incorrect login was entered
+  Qateni sheshu zholy korsetilmegen. Ambigious 
 
 
 
