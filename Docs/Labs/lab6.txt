@@ -6,8 +6,10 @@ Lab6 Requirements
   "3-rd party server" tusiniksiz aqparat, tolyq sipat berilmegen. incomplete-ke zhatady
   
 2.Magzhan Sarzhan
-
-
+  3.2.3.3 Release Notes
+  3.2.3.3.5(P) Information in Release Notes must be well formatted(indentations) for
+  readability and provided by different colors(3 enough).
+  Redability - testileuge kelmeidi. notestable
 
 3.Sandibek Bileken
   3.2.2.1 Events
